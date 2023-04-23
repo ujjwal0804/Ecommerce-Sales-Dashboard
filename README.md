@@ -23,3 +23,6 @@ To run the eCommerce Sales project, you will need to have Power BI Desktop insta
 5. Interactive charts, graphs, and tables
 6. Data filtering options
 7. Export options
+
+
+![Dashboard](https://github.com/ujjwal0804/Ecommerce-Sales-Dashboard/blob/main/Dashboard%20Screenshot.png)
